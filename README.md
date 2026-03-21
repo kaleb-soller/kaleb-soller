@@ -39,10 +39,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,github,git" />
-
     <!-- TO BE LEARNED
     <img src="https://skillicons.dev/icons?i=typescript,express,firebase,flask,bootstrap,mui,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=,,,,mongodb,mysql,cassandra,,,," />
+    <img src="https://skillicons.dev/icons?i=,,,,mongodb,mysql,cassandra,,,," /><br>
     <img src="https://skillicons.dev/icons?i=,,,,vscode,,figma,,,,,react,angular,nodejs,javascript,java,,c,html,css,tailwind," /><br>
     -->
 </div>
